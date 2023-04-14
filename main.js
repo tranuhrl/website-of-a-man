@@ -1,4 +1,4 @@
 function start()
 {
-    window.location.assign("index2.html");
+    window.location.replace("index2.html);
 }
