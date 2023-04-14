@@ -1,4 +1,4 @@
 function start()
 {
-    window.location.href = "index2.html";
+    window.location.assign("index2.html");
 }
