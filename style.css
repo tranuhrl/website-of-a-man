@@ -1,0 +1,14 @@
+html{
+    height: 100%;
+}
+body
+{
+    background: linear-gradient(#ff91eb, #ffffff)
+}
+h1
+{
+    font-family: 'Oswald', sans-serif;
+}
+p{
+    font-family: 'Oswald', sans-serif;
+}
